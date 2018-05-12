@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35042'
     url: http://www.gutenberg.org/2009/agents/35042
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31176#Les-Histoires-merveilleuses-ou-les-Petits-Peureux-corrig-s
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2010-02-03'
 gutenberg_type: Text
